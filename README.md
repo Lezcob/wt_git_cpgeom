@@ -11,5 +11,5 @@
 
 ## Pourcentages
 
-![D:\A5\GIT\Exo_GIT\img\100reussite2.png)
+![./img/100reussite2.png)
 
