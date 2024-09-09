@@ -11,5 +11,4 @@
 
 ## Pourcentages
 
-![./img/100reussite2.png)
-
+!(./img/100reussite2.png)
